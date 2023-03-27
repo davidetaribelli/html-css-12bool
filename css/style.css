@@ -1,0 +1,14 @@
+
+.container{
+    margin-bottom: 1rem;
+}
+
+.container .row div{
+    background-color: royalblue;
+    border: 1px solid white;
+    padding: 1em;
+}
+
+#content{
+    background-color: greenyellow;
+}
