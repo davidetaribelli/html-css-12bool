@@ -2,13 +2,19 @@
     padding: 1rem;
 }
 
+#justify-space-between {
+    justify-content: space-between;
+}
+
+h2{
+    margin: 2rem;
+}
+/* header */
+
 header{
     background-color: #434344;
 }
 
-#justify-space-between{
-    justify-content: space-between;
-}
 
 .logo, .link, .shop{
     color: #dadada;
@@ -33,6 +39,27 @@ header{
     margin: 0 1em;
 }
 
+/* main */
+
+main{
+    background-color: #dadada;
+}
+
+main .row p{
+    text-align: center;
+}
+
+main .row p a{
+    color: #286aff;
+}
+
+main h2{
+    text-align: center;
+}
+
+main .row img{
+    width: 100%;
+}
 
 /* MEDIA QUERY */
 
